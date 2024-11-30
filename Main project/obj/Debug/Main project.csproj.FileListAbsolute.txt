@@ -1,0 +1,18 @@
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\bin\Debug\Main project.exe.config
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\bin\Debug\Main project.exe
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\bin\Debug\Main project.pdb
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main project.csproj.AssemblyReference.cache
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.Properties.Resources.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main project.csproj.GenerateResource.cache
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main project.csproj.CoreCompileInputs.cache
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main project.exe
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main project.pdb
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.CustomDialogForm.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.landing_page.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.PR_form.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.SR_form.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.Marksheet.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main_project.TR_form.resources
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Afsah Ur Zaidi\source\repos\Main project\Main project\obj\Debug\Main pro.E7662D83.Up2Date
